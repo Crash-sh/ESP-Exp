@@ -1,2 +1,5 @@
-# ESP-Exp
-small esp projects and experiments
+# ESP-Experiments
+
+> Small ESP32 projects and experiments.
+
+
